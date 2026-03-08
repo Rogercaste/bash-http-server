@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# temp
+*.tmp
+*.log
+
+# editor
+*.swp
+*.swo
+
+# binaries
+server
+
